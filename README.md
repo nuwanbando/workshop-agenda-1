@@ -14,7 +14,7 @@ Time | Session
 10:30 AM - 11:30 AM | _Session 5: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-12-2018/spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m2)_
 11:30 AM - 12:00 AM | _Session 6: Add Discovery and Configuration_
 12:00 PM - 1:00 PM  | _Working Lunch - Hands On Help - Q&A_
-1:00 PM - 1:45 PM   | _Session 7: Adding Oauth2_
-1:45 PM - 3:45 PM   | _Session 8: Publishing and Consuming_
+1:00 PM - 1:45 PM   | _Session 7: Publishing and Consuming_
+1:45 PM - 3:45 PM   | _Session 8: Adding Oauth2_
 3:45 PM - 4:00 PM   | _Break_
 4:00 PM - 4:30 PM   | _Wrap-up, Q&A, Course evaluation_
