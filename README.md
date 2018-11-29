@@ -21,7 +21,7 @@ Time | Session
 
 # Pre Requisites
 
-## CF CLI
+## CF CLI (2 mins)
 
 Download and install CF CLI from the below link
 
@@ -29,10 +29,22 @@ https://docs.run.pivotal.io/cf-cli/install-go-cli.html
 
 ## Tools
 
-### IDE
+### JDK (Only those who like to develop in Java) (5 mins)
+
+Download and install [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+To set __JAVA_HOME__, do the following:
+
+* Right click My Computer and select Properties
+
+* On the Advanced tab, select Environment Variables, and then edit __JAVA_HOME__ to point to where the JDK software is located, for example, C:\Program Files\Java\jdk1.6.0_02.
+
+### IDE (5 mins)
 
 An IDE of your choice, preferably [Spring Tool Suite](https://spring.io/tools) (for Java) and  [Visual Studio](https://visualstudio.microsoft.com/downloads/) (for .Net)
 
-### Git
+### Git (3 mins)
 
 Download and install [Git](https://git-scm.com/downloads)
+
+ 
