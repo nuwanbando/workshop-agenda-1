@@ -18,3 +18,16 @@ Time | Session
 1:45 PM - 3:45 PM   | _Session 8: Adding Oauth2_
 3:45 PM - 4:00 PM   | _Break_
 4:00 PM - 4:30 PM   | _Wrap-up, Q&A, Course evaluation_
+
+# Pre Requisites
+
+## CF CLI
+
+Download and install CF CLI from the below link
+
+https://docs.run.pivotal.io/cf-cli/install-go-cli.html
+
+## Tools
+
+An IDE of your choice, preferably [Spring Tool Suite](https://spring.io/tools) (for Java) and  [Visual Studio](https://visualstudio.microsoft.com/downloads/) (for .Net)
+
