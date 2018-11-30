@@ -39,7 +39,7 @@ To set __JAVA_HOME__, do the following:
 
 * On the Advanced tab, select Environment Variables, and then edit __JAVA_HOME__ to point to where the JDK software is located, for example, C:\Program Files\Java\jdk1.6.0_02.
 
-### IDE (5 mins)
+### IDE (5 - 10 mins)
 
 An IDE of your choice, preferably [Spring Tool Suite](https://spring.io/tools) (for Java) and  [Visual Studio](https://visualstudio.microsoft.com/downloads/) (for .Net)
 
@@ -47,4 +47,9 @@ An IDE of your choice, preferably [Spring Tool Suite](https://spring.io/tools) (
 
 Download and install [Git](https://git-scm.com/downloads)
 
- 
+
+## Verify Access
+
+Login to the PAS foundation's web portal (e.g. https://apps.sys.prod.us-west-2.cernercf.io/).
+
+Verify that you are able to see `enterprise-services-poc` Org and a space named with your Corporate ID
