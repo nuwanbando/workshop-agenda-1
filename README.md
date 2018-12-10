@@ -12,7 +12,7 @@ Time | Session
 9:45 AM - 10:00 AM  | _Break - Order Lunch_
 10:00 AM - 10:30 AM | _Session 4: Creating a new [Java](https://github.com/cts-workshop-12-2018/spring-employee-service-m1) or [DotNet](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m1) App - Starting from zero_ [DaShaun - Pivotal]
 10:30 AM - 11:30 AM | _Session 5: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-12-2018/spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m2)_ [Robert - Magenic]
-11:30 AM - 12:00 AM | _Session 6: Add Discovery and Configuration_ [DaShaun - Pivotal]
+11:30 AM - 12:00 PM | _Session 6: Add Discovery and Configuration_ [DaShaun - Pivotal]
 12:00 PM - 1:00 PM  | _Working Lunch - Hands On Help - Q&A_
 1:00 PM - 1:45 PM   | _Session 7: Publishing and Consuming_ [Manoj - WSO2]
 1:45 PM - 3:45 PM   | _Session 8: Adding Oauth2_
