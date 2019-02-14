@@ -50,6 +50,6 @@ Download and install [Git](https://git-scm.com/downloads)
 
 ## Verify Access
 
-Login to the PAS foundation's web portal (e.g. https://apps.sys.prod.us-west-2.cernercf.io/).
+Login to the PAS foundation's web portal (e.g. https://apps.sys.dev.us-west-2.cernercf.io/).
 
 Verify that you are able to see `enterprise-services-poc` Org and a space named with your Corporate ID
