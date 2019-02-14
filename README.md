@@ -8,10 +8,10 @@ Time | Session
 8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
 9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
 9:15 AM - 9:30 AM   | _Session 2: [PAS & Cloud Native]()_ [DaShaun - Pivotal] <br>1> Overview of PAS <br>2> 12 factor App
-9:30 AM - 10:00 AM   | _Session 3: [App Manager Overview & Creating Services on PAS](https://github.com/cts-workshop-02-2019/creating-services)_ [Febin - Cerner]
-10:00 AM - 10:30 AM   | _Session 4: [Deploy a web app to PAS](https://github.com/cts-workshop-02-2019/angular7-m0)_ [DaShaun - Pivotal] <br>1> Highlevel overview of hands-on exercise
-10:30 AM - 11:00 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-02-2019/spring-employee-service-m1) or [DotNet](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m1) App - Starting from zero_ [DaShaun - Pivotal]
-11:00 AM - 12:30 PM | _Session 6: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-02-2019/spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m2)_ [Robert - Magenic]
+9:30 AM - 10:00 AM   | _Session 3: [App Manager Overview & Creating Services on PAS](https://github.com/cts-workshop-02-2019/creating-services#apps-manager-overview)_ [Febin - Cerner]
+10:00 AM - 10:30 AM   | _Session 4: [Deploy a web app to PAS](https://github.com/cts-workshop-02-2019/angular7-m0#simple-frontend)_ [DaShaun - Pivotal] <br>1> Highlevel overview of hands-on exercise
+10:30 AM - 11:00 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-02-2019/spring-employee-service-m1#session-1---hello-world) or [DotNet](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m1#session-1---hello-world) App - Starting from zero_ [DaShaun - Pivotal]
+11:00 AM - 12:30 PM | _Session 6: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-02-2019/spring-employee-service-m2#spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m2#dotnet-employee-service-m2)_ [Robert - Magenic]
 12:30 PM - 01:00 PM  | _Working Lunch - Hands On Help - Q&A_
 01:00 PM - 02:00 PM | _Session 7: Add Discovery and Configuration_ [DaShaun - Pivotal]
 02:00 PM - 02:30 PM   | _Session 8: Publishing and Consuming_ [Manoj - WSO2]
