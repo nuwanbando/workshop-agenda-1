@@ -12,12 +12,12 @@ Time | Session
 10:00 AM - 10:30 AM   | _Session 4: [Deploy a web app to PAS](https://github.com/cts-workshop-02-2019/angular7-m0)_ [DaShaun - Pivotal] <br>1> Highlevel overview of hands-on exercise
 10:30 AM - 11:00 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-02-2019/spring-employee-service-m1) or [DotNet](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m1) App - Starting from zero_ [DaShaun - Pivotal]
 11:00 AM - 12:30 PM | _Session 6: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-02-2019/spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m2)_ [Robert - Magenic]
-12:30 PM - 1:00 PM  | _Working Lunch - Hands On Help - Q&A_
-1:00 PM - 02:00 PM | _Session 7: Add Discovery and Configuration_ [DaShaun - Pivotal]
-2:00 PM - 2:30 PM   | _Session 8: Publishing and Consuming_ [Manoj - WSO2]
-2:30 PM - 3:30 PM   | _Session 9: Adding Oauth2_
-3:30 PM - 3:45 PM   | _Break_
-3:45 PM - 4:30 PM   | _Wrap-up, Q&A, Course evaluation_
+12:30 PM - 01:00 PM  | _Working Lunch - Hands On Help - Q&A_
+01:00 PM - 02:00 PM | _Session 7: Add Discovery and Configuration_ [DaShaun - Pivotal]
+02:00 PM - 02:30 PM   | _Session 8: Publishing and Consuming_ [Manoj - WSO2]
+02:30 PM - 03:30 PM   | _Session 9: Adding Oauth2_
+03:30 PM - 03:45 PM   | _Break_
+03:45 PM - 04:30 PM   | _Wrap-up, Q&A, Course evaluation_
 
 # Pre Requisites
 
