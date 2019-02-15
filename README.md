@@ -7,7 +7,7 @@ Time | Session
 8:30 AM - 8:45 AM   | _Introductions & Kickoff_ [Brandon - Cerner]
 8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
 9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
-9:15 AM - 9:30 AM   | _Session 2: [PAS & Cloud Native]()_ [DaShaun - Pivotal] <br>1> Overview of PAS <br>2> 12 factor App
+9:15 AM - 9:30 AM   | _Session 2: [Pivotal Platform](https://docs.google.com/presentation/d/146E7nAEN5eiKuZ7ZVAtL-44I1xugQdHJLmZYh-L0qQQ/edit?usp=sharing)_ [DaShaun - Pivotal]
 9:30 AM - 10:00 AM   | _Session 3: [App Manager Overview & Creating Services on PAS](https://github.com/cts-workshop-02-2019/creating-services#apps-manager-overview)_ [Febin - Cerner]
 10:00 AM - 10:30 AM   | _Session 4: [Deploy a web app to PAS](https://github.com/cts-workshop-02-2019/angular7-m0#simple-frontend)_ [DaShaun - Pivotal] <br>[Initial Highlevel overview](https://github.com/cts-workshop-02-2019/api-design/blob/master/README.md#initial-state)
 10:30 AM - 11:00 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-02-2019/spring-employee-service-m1#session-1---hello-world) or [DotNet](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m1#session-1---hello-world) App - Starting from zero_ [DaShaun - Pivotal]
