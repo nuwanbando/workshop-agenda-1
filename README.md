@@ -13,7 +13,7 @@ Time | Session
 10:30 AM - 11:00 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-02-2019/spring-employee-service-m1#session-1---hello-world) or [DotNet](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m1#session-1---hello-world) App - Starting from zero_ [DaShaun - Pivotal]
 11:00 AM - 12:30 PM | _Session 6: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-02-2019/spring-employee-service-m2#spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-02-2019/dotnet-employee-service-m2#dotnet-employee-service-m2)_ [Sean - Pivotal]
 12:30 PM - 01:00 PM  | _Working Lunch - Hands On Help - Q&A_
-01:00 PM - 02:00 PM | _Session 7: Add Discovery and Configuration_ [DaShaun - Pivotal]
+01:00 PM - 02:00 PM | _Session 7: Add Configuration & Actuators/ Steeltoe Management_ [DaShaun - Pivotal]
 02:00 PM - 02:30 PM   | _Session 8: Publishing and Consuming_ [Nuwan - WSO2]
 02:30 PM - 03:30 PM   | _Session 9: Adding Oauth2_ <br>[Final Highlevel overview](https://github.com/cts-workshop-02-2019/api-design/blob/master/README.md#final-state)
 03:30 PM - 03:45 PM   | _Break_
