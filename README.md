@@ -41,11 +41,13 @@ To set __JAVA_HOME__, do the following:
 
 If you are using JDK > 1.8.x, add this dependency:
 
+```xml
 <dependency>
     <groupId>javax.xml.bind</groupId>
     <artifactId>jaxb-api</artifactId>
     <version>2.3.0</version>
 </dependency>
+```
 
 ### IDE (5 - 10 mins)
 
